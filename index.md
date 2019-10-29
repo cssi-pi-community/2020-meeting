@@ -281,7 +281,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         <h3><strong>Poster presentation</strong></h3>
     </header>
     <p>
-        PIs are expected to present a poster on their project. We will  use <a href="https://figshare.com" target="_blank">Figshare</a> to host and share the posters digitally. Please follow these steps to upload your poster by <strong><u>February 7, 2020 </u></strong>:
+        PIs are expected to present a poster on their project. We will  use <a href="https://figshare.com" target="_blank">Figshare</a> to host and share the posters digitally. Please follow these steps to upload your poster by <strong><u>February 7, 2020</u></strong>:
     </p>
     <p>
         1. Create or log into your <a href="https://figshare.com" target="_blank">Figshare</a> account.<br />
@@ -308,11 +308,11 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         Each project will also give a brief, one-minute lightning talk to introduce
         their poster. This is an opportunity to drive meeting participants to your poster.
         To avoid any technical issues and minimize delays, lightning talk slide(s)
-        will need to be submitted by <strong><u>February 7, 2020 </u></strong>.
+        will need to be submitted by <strong><u>February 7, 2020</u></strong>.
         As for the posters, we will use <a href="https://figshare.com" target="_blank">Figshare</a>
         to gather your 1 slide pdf files.
         Follow the instructions given above for the posters but use the keyword
-        "<u>NSF-CSSI-20208-Talk</u>" as one of the chosen keywords. Your pdf slide will
+        "<u>NSF-CSSI-2020-Talk</u>" as one of the chosen keywords. Your pdf slide will
         be shown during your 1 minute Lightning Talk.
     </p>
 </section>
@@ -322,40 +322,40 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
     <div class="row half">
         <div class="12u">
             <header>
-                <h2>Organizers</h2>
+                <h2>Organizing Committee</h2>
             </header>
             <div class="row half">
                 <div class="4u">
-                    <img src="images/fxt.png" />
-                    <h1>Frank Timmes (Chair)</h1>
-                    <p>Arizona State University</p>
+                    <img src="images/HaiyingShen.jpg" />
+                    <h1>Haiying Shen (Chair)</h1>
+                    <p>University of Virginia </p>
                 </div>
                 <div class="4u">
-                    <img src="images/gesing.png" />
-                    <h1>Sandra Gesing</h1>
-                    <p>University of Notre Dame</p>
+                    <img src="images/CarolSong.png" />
+                    <h1>Carol Song</h1>
+                    <p>Purdue University </p>
                 </div>
                 <div class="4u">
-                    <img src="images/bauman.png" />
-                    <h1>Paul Bauman</h1>
-                    <p>University at Buffalo</p>
+                    <img src="images/UpuleeKanewala.jpg" />
+                    <h1>Upulee Kanewala</h1>
+                    <p>Montana State University  </p>
                 </div>
             </div>
             <div class="row half">
                 <div class="4u">
-                    <img src="images/loeffler.png" />
-                    <h1>Frank Löffler</h1>
-                    <p>Louisiana State University / Friedrich Schiller University Jena, Germany</p>
+                    <img src="images/RituArora.jpg" />
+                    <h1>Ritu Arora</h1>
+                    <p>University of Texas, Austin </p>
                 </div>   
                 <div class="4u">
-                    <img src="images/niemeyer.png" />
-                    <h1>Kyle Niemeyer</h1>
-                    <p>Oregon State University</p>
+                    <img src="images/SandraGesing.jpg" />
+                    <h1>Sandra Gesing</h1>
+                    <p>University of Notre Dame</p>
                 </div>             
                 <div class="4u">
-                    <img src="images/ferreiradasilva.png" />
-                    <h1>Rafael Ferreira da Silva</h1>
-                    <p>University of Southern California</p>
+                    <img src="images/NataliaVillanueva.png" />
+                    <h1>Natalia Villanueva Rosales</h1>
+                    <p>University of Texas at El Paso</p>
                 </div>             
             </div>
         </div>
