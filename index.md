@@ -281,13 +281,13 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         <h3><strong>Poster presentation</strong></h3>
     </header>
     <p>
-        PIs are expected to present a poster on their project. We will again use <a href="https://figshare.com" target="_blank">Figshare</a> to host and share the posters digitally. Please follow these steps to upload your poster by <strong><u>23 April 2018</u></strong>:
+        PIs are expected to present a poster on their project. We will  use <a href="https://figshare.com" target="_blank">Figshare</a> to host and share the posters digitally. Please follow these steps to upload your poster by <strong><u>February 7, 2020 </u></strong>:
     </p>
     <p>
         1. Create or log into your <a href="https://figshare.com" target="_blank">Figshare</a> account.<br />
         2. Follow steps from "My Data" -> "Create a new item" to bring up the content upload form.<br />
         3. Fill in the appropriate metadata (authors, title).<br />
-        4. Set the "Item type" to poster, and at the keyword stage put "<u>NSF-SI2-2018</u>" as one of the chosen keywords. (Hit return/enter to separate keywords.)<br />
+        4. Set the "Item type" to poster, and at the keyword stage put "<u>NSF-CSSI-2020</u>" as one of the chosen keywords. (Hit return/enter to separate keywords.)<br />
         5. You may also want to add your NSF award # to the "Funding" section.<br />
         6. For license, we recommend selecting "<a href="https://creativecommons.org/licenses/by/4.0" target="_blank">CC BY</a>" (which should be the default).<br />
         7. Please also add a brief abstract describing your project.<br />
@@ -308,11 +308,11 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         Each project will also give a brief, one-minute lightning talk to introduce
         their poster. This is an opportunity to drive meeting participants to your poster.
         To avoid any technical issues and minimize delays, lightning talk slide(s)
-        will need to be submitted by <strong><u>23 April 2018</u></strong>.
+        will need to be submitted by <strong><u>February 7, 2020 </u></strong>.
         As for the posters, we will use <a href="https://figshare.com" target="_blank">Figshare</a>
         to gather your 1 slide pdf files.
         Follow the instructions given above for the posters but use the keyword
-        "<u>NSF-SI2-2018-Talk</u>" as one of the chosen keywords. Your pdf slide will
+        "<u>NSF-CSSI-20208-Talk</u>" as one of the chosen keywords. Your pdf slide will
         be shown during your 1 minute Lightning Talk.
     </p>
 </section>
@@ -362,6 +362,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
     </div>
 </div>
 
+<!--
 <a name="past-meetings"></a>
 <section class="wrapper style1 container special" markdown="0">
     <header class="major">
@@ -416,6 +417,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         </div>
     </div>
 </section>
+-->
 
 <a name="code-conduct"></a>
 <section class="wrapper style3" style="margin-bottom: 0" markdown="0">
