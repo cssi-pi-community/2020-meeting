@@ -4,12 +4,9 @@ layout: default
 {::options parse_block_html="true" /}
 
 The 2020 NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) 
-Principal Investigator (PI) workshop will be held on February 13-14, 2020 at the
-at the **[The Westin Washington, D.C. City Center](http://www.westinwashingtondccitycenter.com/)**, 
-1400 M Street NW, Washington, DC, 20005.
-This year, the workshop will be co-located with the 18th IEEE/ACM International
-Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.seas.gwu.edu/)).
+Principal Investigator (PI) workshop will be held on February 13-14, 2020, Seattle, WA. Hotel TBD. 
 
+This meeting will co-locate and partner with the SIAM Conference on Parallel Processing for Scientific Computing (PP20).
 
 <!--Calling the hotel at 202-429-1700 and
 saying "CCGrid group rate" should trigger of discount on the room rate (CCGrid 
