@@ -326,7 +326,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
             </header>
             <div class="row half">
                 <div class="4u">
-                    <img src="images/HaiyingShen.jpg" />
+                    <img src="images/HaiyingShen.png" />
                     <h1>Haiying Shen (Chair)</h1>
                     <p>University of Virginia </p>
                 </div>
@@ -336,19 +336,19 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
                     <p>Purdue University </p>
                 </div>
                 <div class="4u">
-                    <img src="images/UpuleeKanewala.jpg" />
+                    <img src="images/UpuleeKanewala.png" />
                     <h1>Upulee Kanewala</h1>
                     <p>Montana State University  </p>
                 </div>
             </div>
             <div class="row half">
                 <div class="4u">
-                    <img src="images/RituArora.jpg" />
+                    <img src="images/Ritu.png" />
                     <h1>Ritu Arora</h1>
                     <p>University of Texas, Austin </p>
                 </div>   
                 <div class="4u">
-                    <img src="images/SandraGesing.jpg" />
+                    <img src="images/SandraGesing.png" />
                     <h1>Sandra Gesing</h1>
                     <p>University of Notre Dame</p>
                 </div>             
