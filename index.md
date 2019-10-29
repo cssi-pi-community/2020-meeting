@@ -322,40 +322,40 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
     <div class="row half">
         <div class="12u">
             <header>
-                <h2>Organizers</h2>
+                <h2>Organizing Committee</h2>
             </header>
             <div class="row half">
                 <div class="4u">
-                    <img src="images/fxt.png" />
-                    <h1>Frank Timmes (Chair)</h1>
-                    <p>Arizona State University</p>
+                    <img src="images/HaiyingShen.jpg" />
+                    <h1>Haiying Shen (Chair)</h1>
+                    <p>University of Virginia </p>
                 </div>
                 <div class="4u">
-                    <img src="images/gesing.png" />
-                    <h1>Sandra Gesing</h1>
-                    <p>University of Notre Dame</p>
+                    <img src="images/CarolSong.png" />
+                    <h1>Carol Song</h1>
+                    <p>Purdue University </p>
                 </div>
                 <div class="4u">
-                    <img src="images/bauman.png" />
-                    <h1>Paul Bauman</h1>
-                    <p>University at Buffalo</p>
+                    <img src="images/UpuleeKanewala.jpg" />
+                    <h1>Upulee Kanewala</h1>
+                    <p>Montana State University  </p>
                 </div>
             </div>
             <div class="row half">
                 <div class="4u">
-                    <img src="images/loeffler.png" />
-                    <h1>Frank Löffler</h1>
-                    <p>Louisiana State University / Friedrich Schiller University Jena, Germany</p>
+                    <img src="images/RituArora.jpg" />
+                    <h1>Ritu Arora</h1>
+                    <p>University of Texas, Austin </p>
                 </div>   
                 <div class="4u">
-                    <img src="images/niemeyer.png" />
-                    <h1>Kyle Niemeyer</h1>
-                    <p>Oregon State University</p>
+                    <img src="images/SandraGesing.jpg" />
+                    <h1>Sandra Gesing</h1>
+                    <p>University of Notre Dame</p>
                 </div>             
                 <div class="4u">
-                    <img src="images/ferreiradasilva.png" />
-                    <h1>Rafael Ferreira da Silva</h1>
-                    <p>University of Southern California</p>
+                    <img src="images/NataliaVillanueva.png" />
+                    <h1>Natalia Villanueva Rosales</h1>
+                    <p>University of Texas at El Paso</p>
                 </div>             
             </div>
         </div>
