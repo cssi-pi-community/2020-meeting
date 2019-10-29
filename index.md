@@ -8,11 +8,7 @@ Principal Investigator (PI) workshop will be held on February 13-14, 2020 at Wes
 
 This meeting will co-locate and partner with the SIAM Conference on Parallel Processing for Scientific Computing (PP20).
 
-<!--Calling the hotel at 202-429-1700 and
-saying "CCGrid group rate" should trigger of discount on the room rate (CCGrid 
-group rate is only valid from April 30 onwards, April 29 is not included).-->
-
-
+<!-- important dates -->
 <div class="wrapper style2" markdown="0">
     <div class="row half">
         <div class="12u">
@@ -30,7 +26,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
         </div>
     </div>
 </div>
-<!--
+<!-- Report Section
 <section class="wrapper style3 special" markdown="0">
     <div class="row">
         <div class="12u">
@@ -49,10 +45,9 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
         <div class="12u">
             <header>
                 <h2><strong>Agenda</strong></h2>
-                <p><strong>Title and Theme: Towards a National Software Ecosystem</strong></p>
             </header>
             <div class="row half">
-                <strong>Monday Apr 30, 2018</strong> <span>(Room: <strong>Ballroom B</strong>)</span>
+                <strong>Thursday, February 13, 2020</strong> <span>(Room: <strong>TBD</strong>)</span>
                 <table class="default stripped agenda">
                     <tr>
                         <th width="10%">Time</th>
@@ -62,7 +57,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>7:15am</td>
-                        <td><span class="tnormal">Breakfast with Jim Kurose**</span></td>
+                        <td><span class="tnormal">Breakfast TBD</span></td>
                         <td></td>
                         <td></td>
                     </tr>
@@ -75,13 +70,13 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     <tr>
                         <td>8:30am</td>
                         <td><a href="https://figshare.com/articles/2018_si2_welcome_2018_pdf/6204143" target="_blank">Welcome Address</a></td>
-                        <td>Frank Timmes</td>
+                        <td>Haiying SHen</td>
                         <td></td>
                     </tr>
                     <tr>
                         <td>8:45am</td>
                         <td>NSF CISE and <a href="presentations/2018-friedlander-SI2.pdf" target="_blank">OAC Directions</a></td>
-                        <td>Jim Kurose and Amy Friedlander</td>
+                        <td>TBD</td>
                         <td></td>
                     </tr>                    
                     <tr class="up">
@@ -92,47 +87,47 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>10:00am</td>
-                        <td><a href="https://figshare.com/articles/2018_si2_pi_walkerpeach_pdf/6204164" target="_blank">Accessing Commercial Potential of Deep Technology Innovation</a></td>
-                        <td>Cindy R. WalkerPeach</td>
+                        <td><a href="https://figshare.com/articles/2018_si2_pi_walkerpeach_pdf/6204164" target="_blank">Talk title TBD</a></td>
+                        <td>TBD</td>
                         <td></td>
                     </tr>
                     <tr>
                         <td>10:05am</td>
                         <td>Lightning Talks #1</td>
-                        <td><a href="/2018-meeting/poster_sessions.html#session1">assignments</a></td>
-                        <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: Frank Timmes</td>
+                        <td><a href="/2020-meeting/poster_sessions.html#session1">assignments</a></td>
+                        <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: TBD</td>
                     </tr>                    
                     <tr>
                         <td>10:50am</td>
                         <td>Posters Session #1</td>
-                        <td><a href="/2018-meeting/poster_sessions.html#session1">assignments</a></td>
+                        <td><a href="/2020-meeting/poster_sessions.html#session1">assignments</a></td>
                     </tr>                    
                     <tr class="up">
                         <td>noon</td>
-                        <td>Lunch SI2</td>
+                        <td>Lunch </td>
                         <td></td>
                         <td></td>
                     </tr>
                     <tr>
                         <td>1:00pm</td>
-                        <td><span class="tnormal"><a href="presentations/nanoHUB_briefing_stakehold_success_crit_impact_print.pdf" target="_blank">Network for Computational Nanotechnology Cyber Platform</a></span></td>
-                        <td>Gerhard Klimeck</td>
-                        <td rowspan="4" class="tnormal" style="line-height: 1.5em">Moderator: Frank Löffler</td>
+                        <td><span class="tnormal"><a href="presentations/nanoHUB_briefing_stakehold_success_crit_impact_print.pdf" target="_blank">Title TBD</a></span></td>
+                        <td>Speaker TBD</td>
+                        <td rowspan="4" class="tnormal" style="line-height: 1.5em">Moderator: TBD</td>
                     </tr>                    
                     <tr>
                         <td>1:30pm</td>
-                        <td>SI2 Institutes: <span class="tnormal"><a href="presentations/SGCI-PI-meeting-4-30-18.pdf" target="_blank">Science Gateways Software Institute</a></span></td>
-                        <td>Nancy Wilkins-Diehr</td>
+                        <td>SI2 Institutes: <span class="tnormal"><a href="presentations/SGCI-PI-meeting-4-30-18.pdf" target="_blank">Title TBD</a></span></td>
+                        <td>TBD </td>
                     </tr>                    
                     <tr>
                         <td>2:00pm</td>
-                        <td>SI2 Institutes: <span class="tnormal"><a href="presentations/si2-pi-meeting-crawford.pdf" target="_blank">Molecular Science Software Institute</a></span></td>
-                        <td>Daniel Crawford</td>
+                        <td>SI2 Institutes: <span class="tnormal"><a href="presentations/si2-pi-meeting-crawford.pdf" target="_blank">Title TBD</a></span></td>
+                        <td>TBD</td>
                     </tr>  
                     <tr>
                         <td>2:30pm</td>
-                        <td>Industry Highlight: <span class="tnormal"><a href="presentations/NSF_SI2_PI_Meeting_043018_zetner.pdf" target="_blank">Approaching Sustainability and Industry: A Longest but not Last Mile</a></span></td>
-                        <td>Mike Zentner</td>
+                        <td>Industry Highlight: <span class="tnormal"><a href="presentations/NSF_SI2_PI_Meeting_043018_zetner.pdf" target="_blank">Title TBD</a></span></td>
+                        <td>TBD</td>
                     </tr>  
                     <tr class="up">
                         <td>3:00pm</td>
@@ -143,13 +138,13 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     <tr>
                         <td>3:15pm</td>
                         <td>Lightning Talks #2</td>
-                        <td><a href="/2018-meeting/poster_sessions.html#session2">assignments</a></td>
+                        <td><a href="/2020-meeting/poster_sessions.html#session2">assignments</a></td>
                         <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: Kyle Niemeyer</td>
                     </tr>  
                     <tr>
                         <td>4:00pm</td>
                         <td>Posters Session #2</td>
-                        <td><a href="/2018-meeting/poster_sessions.html#session2">assignments</a></td>
+                        <td><a href="/2020-meeting/poster_sessions.html#session2">assignments</a></td>
                     </tr>  
                     <tr class="up">
                         <td>5:00pm</td>
@@ -161,7 +156,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                 <p style="margin-top: -2em; padding: 0; font-size: 11px"><strong>** For selected PIs only.</strong></p>
             </div>
             <div class="row half">
-                <strong>Tuesday May 1, 2018</strong> <span>(Room: <strong>Monticello Ballroom</strong>)</span>
+                <strong>Friday, February 14, 2020</strong> <span>(Room: <strong>TBD </strong>)</span>
                 <table class="default stripped agenda">
                     <tr>
                         <th width="10%">Time</th>
@@ -177,19 +172,19 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>8:30am</td>
-                        <td>Conceptualization: <span class="tnormal"><a href="https://figshare.com/s/59f447dc6694dc5c9ece" target="_blank">Geospatial Software Institute</a></span></td>
-                        <td>Shaowen Wang</td>
-                        <td rowspan="3" class="tnormal" style="line-height: 1.5em">Moderator: Rafael Ferreira da Silva</td>
+                        <td>Conceptualization: <span class="tnormal"><a href="https://figshare.com/s/59f447dc6694dc5c9ece" target="_blank">Title TBD </a></span></td>
+                        <td>TBD</td>
+                        <td rowspan="3" class="tnormal" style="line-height: 1.5em">Moderator: TBD</td>
                     </tr>
                     <tr>
                         <td>9:00am</td>
-                        <td>Conceptualization: <span class="tnormal"><a href="http://elmer.web.cern.ch/elmer/si2pi2018.pdf" target="_blank">Scientific Software Innovation Institute For High Energy Physics</a></span></td>
-                        <td>Peter Elmer</td>
+                        <td>Conceptualization: <span class="tnormal"><a href="http://elmer.web.cern.ch/elmer/si2pi2018.pdf" target="_blank">Title TBD</a></span></td>
+                        <td>TBD </td>
                     </tr>                    
                     <tr>
                         <td>9:30am</td>
-                        <td>Conceptualization: <span class="tnormal"><a href="http://inundata.org/talks/si2" target="_blank">Conceptualizing a US Research Software Sustainability Institute</a></span></td>
-                        <td>Karthik Ram</td>
+                        <td>Conceptualization: <span class="tnormal"><a href="http://inundata.org/talks/si2" target="_blank">Title TBD</a></span></td>
+                        <td>TBD</td>
                     </tr>                    
                     <tr class="up">
                         <td>10:00am</td>
@@ -200,13 +195,13 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     <tr>
                         <td>10:15am</td>
                         <td>Lightning Talks #3</td>
-                        <td><a href="/2018-meeting/poster_sessions.html#session3">assignments</a></td>
+                        <td><a href="/2020-meeting/poster_sessions.html#session3">assignments</a></td>
                         <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: Paul Bauman</td>
                     </tr>                    
                     <tr>
                         <td>11:00am</td>
                         <td>Posters Session #3</td>
-                        <td><a href="/2018-meeting/poster_sessions.html#session3">assignments</a></td>
+                        <td><a href="/2020-meeting/poster_sessions.html#session3">assignments</a></td>
                     </tr>                    
                     <tr class="up">
                         <td>noon</td>
@@ -216,14 +211,14 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>1:00pm</td>
-                        <td class="lnormal">SSI Highlight: <span class="tnormal"><a href="presentations/20180423-NSF-SSI2-15mintalk-Westerink-v21abr.pptx" target="_blank">STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</a></span></td>
-                        <td>Joannes Westerink</td>
-                        <td rowspan="6" class="tnormal" style="line-height: 1.5em">Moderator: Sandra Gesing</td>
+                        <td class="lnormal">SSI Highlight: <span class="tnormal"><a href="presentations/20180423-NSF-SSI2-15mintalk-Westerink-v21abr.pptx" target="_blank">Title TBD </a></span></td>
+                        <td>TBD </td>
+                        <td rowspan="6" class="tnormal" style="line-height: 1.5em">Moderator: TBD </td>
                     </tr>                    
                     <tr>
                         <td>1:15pm</td>
-                        <td class="lnormal">SSE Highlight: <span class="tnormal"><a href="presentations/si2-pi-meeting-shephard.pdf" target="_blank">Fast Dynamic Load Balancing Tools for Extreme Scale Systems</a></span></td>
-                        <td>Mark Shephard</td>
+                        <td class="lnormal">SSE Highlight: <span class="tnormal"><a href="presentations/si2-pi-meeting-shephard.pdf" target="_blank">Title TBD</a></span></td>
+                        <td>TBD </td>
                     </tr>  
                     <tr>
                         <td>1:30pm</td>
