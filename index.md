@@ -3,9 +3,9 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) 
-Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday 
-May 1, 2018 at the **[The Westin Washington, D.C. City Center](http://www.westinwashingtondccitycenter.com/)**, 
+The 2020 NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) 
+Principal Investigator (PI) workshop will be held on February 13-14, 2020 at the
+at the **[The Westin Washington, D.C. City Center](http://www.westinwashingtondccitycenter.com/)**, 
 1400 M Street NW, Washington, DC, 20005.
 This year, the workshop will be co-located with the 18th IEEE/ACM International
 Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.seas.gwu.edu/)).
@@ -431,7 +431,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
         <h3><strong>Code of Conduct</strong></h3>
     </header>
     <p>
-        The 2018 NSF SI2 PI Meeting is an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the NSF SI2 PI Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.
+        The 2020 NSF CSSI PI Meeting is an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the NSF SI2 PI Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.
     </p>
     <p>
         <strong>Definition of Sexual Harassment:</strong><br />
