@@ -281,7 +281,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         <h3><strong>Poster presentation</strong></h3>
     </header>
     <p>
-        PIs are expected to present a poster on their project. We will  use <a href="https://figshare.com" target="_blank">Figshare</a> to host and share the posters digitally. Please follow these steps to upload your poster by <strong><u>February 7, 2020 </u></strong>:
+        PIs are expected to present a poster on their project. We will  use <a href="https://figshare.com" target="_blank">Figshare</a> to host and share the posters digitally. Please follow these steps to upload your poster by <strong><u>February 7, 2020</u></strong>:
     </p>
     <p>
         1. Create or log into your <a href="https://figshare.com" target="_blank">Figshare</a> account.<br />
@@ -308,11 +308,11 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         Each project will also give a brief, one-minute lightning talk to introduce
         their poster. This is an opportunity to drive meeting participants to your poster.
         To avoid any technical issues and minimize delays, lightning talk slide(s)
-        will need to be submitted by <strong><u>February 7, 2020 </u></strong>.
+        will need to be submitted by <strong><u>February 7, 2020</u></strong>.
         As for the posters, we will use <a href="https://figshare.com" target="_blank">Figshare</a>
         to gather your 1 slide pdf files.
         Follow the instructions given above for the posters but use the keyword
-        "<u>NSF-CSSI-20208-Talk</u>" as one of the chosen keywords. Your pdf slide will
+        "<u>NSF-CSSI-2020-Talk</u>" as one of the chosen keywords. Your pdf slide will
         be shown during your 1 minute Lightning Talk.
     </p>
 </section>
