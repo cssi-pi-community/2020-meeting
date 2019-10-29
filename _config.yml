@@ -19,3 +19,5 @@ assets:
 gems:
   - jekyll-assets
 
+
+theme: jekyll-theme-time-machine
