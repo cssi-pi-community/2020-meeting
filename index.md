@@ -4,7 +4,7 @@ layout: default
 {::options parse_block_html="true" /}
 
 The 2020 NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) 
-Principal Investigator (PI) workshop will be held on February 13-14, 2020, Seattle, WA. Hotel TBD. 
+Principal Investigator (PI) workshop will be held on February 13-14, 2020 at Westin Washington, Seattle, WA.
 
 This meeting will co-locate and partner with the SIAM Conference on Parallel Processing for Scientific Computing (PP20).
 
@@ -21,16 +21,16 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
             </header>
             <div class="row half">
                 <div class="8u">
-                    Workshop Registration: <strong><s>29 March 2018</s></strong><br />
-                    Poster Submission: <strong><s>23 April 2018</s></strong><br />
-                    Lightning Talk Submission: <strong><s>23 April 2018</s></strong><br />
-                    Workshop dates: <strong>30 April and 1 May 2018</strong><br />
+                    Workshop dates: <strong>February 13-14, 2020</strong><br />
+                    Workshop Registration: <strong><s>December 15, 2020</s></strong><br />
+                    Poster Submission: <strong><s>January 15, 2020</s></strong><br />
+                    Lightning Talk Submission: <strong><s>January 15, 2020</s></strong><br />                   
                 </div>
             </div>
         </div>
     </div>
 </div>
-
+<!--
 <section class="wrapper style3 special" markdown="0">
     <div class="row">
         <div class="12u">
@@ -41,7 +41,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
         </div>
     </div>
 </section>
-
+-->
 
 <a name="agenda"></a>
 <div class="wrapper style2" markdown="0">
