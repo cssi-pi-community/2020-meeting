@@ -22,9 +22,9 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
             <div class="row half">
                 <div class="8u">
                     Workshop dates: <strong>February 13-14, 2020</strong><br />
-                    Workshop Registration: <strong><s>December 15, 2020</s></strong><br />
-                    Poster Submission: <strong><s>January 15, 2020</s></strong><br />
-                    Lightning Talk Submission: <strong><s>January 15, 2020</s></strong><br />                   
+                    Workshop Registration: <strong>December 15, 2020</strong><br />
+                    Poster Submission: <strong>January 15, 2020</strong><br />
+                    Lightning Talk Submission: <strong>January 15, 2020</strong><br />                   
                 </div>
             </div>
         </div>
