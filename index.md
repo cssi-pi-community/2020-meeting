@@ -27,6 +27,22 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         </div>
     </div>
 </div>
+
+<div class="wrapper style2" markdown="0">
+    <div class="row half">
+        <div class="12u">
+            <header>
+                <h2>Abstract Submission</h2>
+            </header>
+            <div class="row half">
+                <div class="8u">
+                    Instructions on how to submit your abstract for posters and lightning talks. </strong><br /> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Report Section
 <section class="wrapper style3 special" markdown="0">
     <div class="row">
