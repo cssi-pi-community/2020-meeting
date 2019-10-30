@@ -13,7 +13,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
     <div class="row half">
         <div class="12u">
             <header>
-                <h2>Important Dates</h2>
+                <h2><strong>Important Dates</strong></h2>
             </header>
             <div class="row half">
                 <div class="8u">
@@ -32,7 +32,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
     <div class="row half">
         <div class="12u">
             <header>
-                <h2>Abstract Submission</h2>
+                <h2><strong>Abstract Submission</strong></h2>
             </header>
             <div class="row half">
                 <div class="8u">
@@ -48,7 +48,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
     <div class="row">
         <div class="12u">
             <header>
-                <h3>Workshop Report</h3>
+                <h3><strong>Workshop Report</strong></h3>
             </header>
             <iframe src="https://widgets.figshare.com/articles/7152461/embed?show_title=1" width="100%" height="500" frameborder="0"></iframe>
         </div>
@@ -339,37 +339,37 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
     <div class="row half">
         <div class="12u">
             <header>
-                <h2>Organizing Committee</h2>
+                <h2><strong>Organizing Committee</strong></h2>
             </header>
             <div class="row half">
-                <div class="4u">
+                <div class="6u">
                     <img src="images/HaiyingShen.png" />
                     <h1>Haiying Shen (Chair)</h1>
                     <p>University of Virginia </p>
                 </div>
-                <div class="4u">
+                <div class="6u">
                     <img src="images/CarolSong.png" />
                     <h1>Carol Song</h1>
                     <p>Purdue University </p>
                 </div>
-                <div class="4u">
+                <div class="6u">
                     <img src="images/kanewala.png" />
                     <h1>Upulee Kanewala</h1>
                     <p>Montana State University  </p>
                 </div>
             </div>
             <div class="row half">
-                <div class="4u">
+                <div class="6u">
                     <img src="images/ritu.png" />
                     <h1>Ritu Arora</h1>
                     <p>University of Texas, Austin </p>
                 </div>   
-                <div class="4u">
+                <div class="6u">
                     <img src="images/SandraGesing.png" />
                     <h1>Sandra Gesing</h1>
                     <p>University of Notre Dame</p>
                 </div>             
-                <div class="4u">
+                <div class="6u">
                     <img src="images/NataliaVillanueva.png" />
                     <h1>Natalia Villanueva Rosales</h1>
                     <p>University of Texas at El Paso</p>
