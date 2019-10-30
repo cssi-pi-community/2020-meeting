@@ -342,34 +342,34 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
                 <h2><strong>Organizing Committee</strong></h2>
             </header>
             <div class="row half">
-                <div class="6u">
-                    <img src="images/HaiyingShen.png" />
+                <div class="4u">
+                    <img src="images/HaiyingShen.png" style="width:250px;height:250px; />
                     <h1>Haiying Shen (Chair)</h1>
                     <p>University of Virginia </p>
                 </div>
-                <div class="6u">
-                    <img src="images/CarolSong.png" />
+                <div class="4u">
+                    <img src="images/CarolSong.png" style="width:250px;height:250px; />
                     <h1>Carol Song</h1>
                     <p>Purdue University </p>
                 </div>
-                <div class="6u">
-                    <img src="images/kanewala.png" />
+                <div class="4u">
+                    <img src="images/kanewala.png"  style="width:250px;height:250px; />
                     <h1>Upulee Kanewala</h1>
                     <p>Montana State University  </p>
                 </div>
             </div>
             <div class="row half">
-                <div class="6u">
+                <div class="4u">
                     <img src="images/ritu.png" />
                     <h1>Ritu Arora</h1>
                     <p>University of Texas, Austin </p>
                 </div>   
-                <div class="6u">
+                <div class="4u">
                     <img src="images/SandraGesing.png" />
                     <h1>Sandra Gesing</h1>
                     <p>University of Notre Dame</p>
                 </div>             
-                <div class="6u">
+                <div class="4u">
                     <img src="images/NataliaVillanueva.png" />
                     <h1>Natalia Villanueva Rosales</h1>
                     <p>University of Texas at El Paso</p>
