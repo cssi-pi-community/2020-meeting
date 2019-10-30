@@ -4,7 +4,7 @@ layout: default
 {::options parse_block_html="true" /}
 
 The 2020 NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) 
-Principal Investigator (PI) workshop will be held February 13-14, 2020 in downtown Seattle, WA.
+Principal Investigator (PI) workshop will be held February 13-14, 2020 in downtown Seattle, WA. The meeting venue will be at Residence Inn by Marriott Seattle Downtown/Convention Center, 1815 Terry Avenue, Seattle, Washington 98101 (<a href="https://goo.gl/maps/83CVQXAFa2Y142sz6" target="_blank">map direction</a>). 
 
 This meeting will co-locate and partner with the SIAM Conference on Parallel Processing for Scientific Computing (PP20).
 
