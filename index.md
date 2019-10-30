@@ -344,6 +344,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
             <div class="row half">
                 <div class="4u">
                     <img src="images/HaiyingShen.png" style="width:100px;height:100px;" />
+                    <br/>
                     <h1>Haiying Shen (Chair)</h1>
                     <p>University of Virginia </p>
                 </div>
