@@ -343,34 +343,34 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
             </header>
             <div class="row half">
                 <div class="4u">
-                    <img src="images/HaiyingShen.png" style="width:250px;height:250px;" />
+                    <img src="images/HaiyingShen.png" style="width:150px;height:150px;" />
                     <h1>Haiying Shen (Chair)</h1>
                     <p>University of Virginia </p>
                 </div>
                 <div class="4u">
-                    <img src="images/CarolSong.png" style="width:250px;height:250px;" />
+                    <img src="images/CarolSong.png" style="width:150px;height:150px;" />
                     <h1>Carol Song</h1>
                     <p>Purdue University </p>
                 </div>
                 <div class="4u">
-                    <img src="images/kanewala.png"  style="width:250px;height:250px;" />
+                    <img src="images/kanewala.png" style="width:150px;height:150px;" />
                     <h1>Upulee Kanewala</h1>
                     <p>Montana State University  </p>
                 </div>
             </div>
             <div class="row half">
                 <div class="4u">
-                    <img src="images/ritu.png" />
+                    <img src="images/ritu.png" style="width:150px;height:150px;" />
                     <h1>Ritu Arora</h1>
                     <p>University of Texas, Austin </p>
                 </div>   
                 <div class="4u">
-                    <img src="images/SandraGesing.png" />
+                    <img src="images/SandraGesing.png" style="width:150px;height:150px;" />
                     <h1>Sandra Gesing</h1>
                     <p>University of Notre Dame</p>
                 </div>             
                 <div class="4u">
-                    <img src="images/NataliaVillanueva.png" />
+                    <img src="images/NataliaVillanueva.png" style="width:150px;height:150px;" />
                     <h1>Natalia Villanueva Rosales</h1>
                     <p>University of Texas at El Paso</p>
                 </div>             
