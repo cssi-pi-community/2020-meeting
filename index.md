@@ -376,6 +376,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
                     <p>University of Texas at El Paso</p>
                 </div>             
             </div>
+            <p> Contact the organizers via email at CSSI-PI-Meeting2020 at googlegroups dot com. </p>
         </div>
     </div>
 </div>
