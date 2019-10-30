@@ -18,9 +18,10 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
             <div class="row half">
                 <div class="8u">
                     Workshop dates: <strong>February 13-14, 2020</strong><br />
-                    Workshop Registration: <strong>December 15, 2020</strong><br />
+                    Workshop Registration: <strong>January 21, 2020</strong><br />
                     Poster Submission: <strong>January 15, 2020</strong><br />
-                    Lightning Talk Submission: <strong>January 15, 2020</strong><br />                   
+                    Lightning Talk Submission: <strong>January 15, 2020</strong><br /> 
+                    Presentation/poster upload: <strong>February 7, 2020</strong><br />  
                 </div>
             </div>
         </div>
