@@ -4,7 +4,7 @@ layout: default
 {::options parse_block_html="true" /}
 
 The 2020 NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) 
-Principal Investigator (PI) workshop will be held February 13-14, 2020 in downtown Seattle, WA.
+Principal Investigator (PI) workshop will be held February 13-14, 2020 in downtown Seattle, WA. The meeting venue will be at Residence Inn by Marriott Seattle Downtown/Convention Center, 1815 Terry Avenue, Seattle, Washington 98101 (<a href="https://goo.gl/maps/83CVQXAFa2Y142sz6" target="_blank">map direction</a>). 
 
 This meeting will co-locate and partner with the SIAM Conference on Parallel Processing for Scientific Computing (PP20).
 
@@ -18,14 +18,31 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
             <div class="row half">
                 <div class="8u">
                     Workshop dates: <strong>February 13-14, 2020</strong><br />
-                    Workshop Registration: <strong>December 15, 2020</strong><br />
+                    Workshop Registration: <strong>January 21, 2020</strong><br />
                     Poster Submission: <strong>January 15, 2020</strong><br />
-                    Lightning Talk Submission: <strong>January 15, 2020</strong><br />                   
+                    Lightning Talk Submission: <strong>January 15, 2020</strong><br /> 
+                    Presentation/poster upload: <strong>February 7, 2020</strong><br />  
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+<div class="wrapper style2" markdown="0">
+    <div class="row half">
+        <div class="12u">
+            <header>
+                <h2>Abstract Submission</h2>
+            </header>
+            <div class="row half">
+                <div class="8u">
+                    Instructions on how to submit your abstract for posters and lightning talks. <br /> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Report Section
 <section class="wrapper style3 special" markdown="0">
     <div class="row">
