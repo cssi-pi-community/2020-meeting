@@ -425,7 +425,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
         <h3><strong>Code of Conduct</strong></h3>
     </header>
     <p>
-        The 2020 NSF CSSI PI Meeting is an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the NSF SI2 PI Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.
+        The 2020 NSF CSSI PI Meeting is an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the NSF CSSI PI Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.
     </p>
     <p>
         <strong>Definition of Sexual Harassment:</strong><br />
@@ -446,6 +446,6 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
     </p>
     <p>
         <strong>Reporting an Incident:</strong><br />
-        Violations of this code of conduct policy should be reported immediately to one of the five Organizing Committee Members. All complaints will be treated seriously and be investigated promptly. Confidentiality will be honored to the extent permitted as long as the rights of others are not compromised.  Sanctions may range from verbal warning, to ejection from the 2018 NSF SI2 PI Meeting, to the notification of appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated.
+        Violations of this code of conduct policy should be reported immediately to one of the five Organizing Committee Members. All complaints will be treated seriously and be investigated promptly. Confidentiality will be honored to the extent permitted as long as the rights of others are not compromised.  Sanctions may range from verbal warning, to ejection from the 2018 NSF CSSI PI Meeting, to the notification of appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated.
     </p>
 </section>
