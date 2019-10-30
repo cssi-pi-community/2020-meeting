@@ -36,7 +36,7 @@ This meeting will co-locate and partner with the SIAM Conference on Parallel Pro
             </header>
             <div class="row half">
                 <div class="8u">
-                    Instructions on how to submit your abstract for posters and lightning talks. </strong><br /> 
+                    Instructions on how to submit your abstract for posters and lightning talks. <br /> 
                 </div>
             </div>
         </div>
