@@ -797,12 +797,12 @@ table .up {
 	padding: 0 30px;
 }
 #masthead h1 {
-	font-size: 1.5em;
+	font-size: 1em;
 	line-height: 1.2;
 	font-weight: 200;
 	margin: 0;
 	padding: 0;
-	width: 280px;
+	width: 150px;
 	text-transform: uppercase;
 }
 #masthead h1 a {
@@ -1067,6 +1067,10 @@ table .up {
 		width: 340px;
 		height: 100%;
 	}
+	#masthead h1 {
+		font-size: 1.5em;
+		width: 280px;
+	}
 	#masthead .header-row {
 		padding: 60px;
 	}
@@ -1110,7 +1114,7 @@ table .up {
 	padding: 0 0 1em 0;
 	border-bottom: 1px solid #999;
 	font-weight: 700;
-	font-size: 2em;
+	font-size: 1.5em;
 }
 #home .sub-heading {
 	font-size: 1.5em;
@@ -1126,6 +1130,12 @@ table .up {
 }
 #home span {
 	display: block;
+}
+
+@media (min-width: 776px) {
+	#home h2 {
+		font-size: 1.5em;
+	}
 }
 
 .floor h3 {
