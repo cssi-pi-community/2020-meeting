@@ -862,6 +862,9 @@ table .up {
 #masthead .copyright ul li a:hover {
 	color: #fff;
 }
+#masthead .copyright {
+	width: 100%;
+}
 #masthead .copyright ul,
 #masthead .copyright p {
 	width: 100%;
@@ -1081,8 +1084,8 @@ table .up {
 	#masthead .header-social-icons {
 		margin: 0 0 30px 0;
 	}
+	#masthead .copyright,
 	#masthead .copyright ul,
-	#masthead .copyright ul li,
 	#masthead .copyright p {
 		display: block;
 	}
