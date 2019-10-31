@@ -732,22 +732,25 @@ table .up {
 	background-color: rgba(92, 191, 214, 0.2);
 }
 @media (max-width: 776px) {
-	table th {
+	table thead th {
 		display: none;
 	}
 	table,
 	table caption,
 	table tbody,
 	table tr,
+	table th,
 	table td {
 		width: auto;
 		display: block;
 		border-bottom: none;
 	}
+	table tr th:first-child,
 	table tr td:first-child {
 		padding-bottom: 0;
 		font-weight: bold;
 	}
+	table tr th + td,
 	table tr td + td {
 		padding-top: 0;
 		padding-bottom: 0;
