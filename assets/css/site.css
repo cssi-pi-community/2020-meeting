@@ -863,7 +863,6 @@ table .up {
 	color: #fff;
 }
 #masthead .copyright ul,
-#masthead .copyright ul li,
 #masthead .copyright p {
 	width: 100%;
 	font-size: 0.8em;
@@ -945,20 +944,6 @@ table .up {
 	color: #999999;
 	color: #d87e5c;
 }
-/*#masthead ul.menu > li a:after {
-	content: "\203A";
-	position: absolute;
-	right: 0;
-	top: 50%;
-	font-size: 0.5em;
-	line-height: 1;
-	margin-top: -0.5em;
-	font-weight: 400;
-	-webkit-transition: all 0.2s;
-	-moz-transition: all 0.2s;
-	-o-transition: all 0.2s;
-	transition: all 0.2s;
-}*/
 #masthead ul.menu > li a.active,
 #masthead ul.menu > li a:hover {
 	color: #d87e5c;
