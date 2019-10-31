@@ -3,468 +3,499 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-The 2020 NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) 
-Principal Investigator (PI) workshop will be held February 13-14, 2020 in downtown Seattle, WA. The meeting venue will be at Residence Inn by Marriott Seattle Downtown/Convention Center, 1815 Terry Avenue, Seattle, Washington 98101 (<a href="https://goo.gl/maps/83CVQXAFa2Y142sz6" target="_blank" rel="noopener">map direction</a>). 
+<section class="floor floor-1" id="home">
+	<div class="inner">
+		<div id="home-title">
+		<h2><span>2020 NSF</span> <span>Cyberinfrastructure for Sustained Scientific Innovation Principal Investigator</span> Workshop</h2>
+		<p class="sub-heading">Towards a National Cyberinfrastructure Ecosystem</p>
+		<p>February 13-14, 2020</p>
+	</div>
+	<p>
+		The workshop will be held in downtown Seattle, WA. The meeting venue will be at Residence Inn by Marriott Seattle Downtown/Convention Center, 1815 Terry Avenue, Seattle, Washington 98101 (<a href="https://goo.gl/maps/83CVQXAFa2Y142sz6" target="_blank" rel="noopener">map direction</a>).
+	</p>
+	<p>
+		This meeting will co-locate and partner with the SIAM Conference on Parallel Processing for Scientific Computing (PP20).
+	</p>
+	<div class="note">
+		<table>
+			<caption>Important Dates</caption>
+			<tbody>
+				<tr>
+					<th scope="row">Poster Submission</th>
+					<td>January 15, 2020</td>
+				</tr>
+				<tr>
+					<th scope="row">Lightning Talk Submission</th>
+					<td>January 15, 2020</td>
+				</tr>
+				<tr>
+					<th scope="row">Workshop Registration</th>
+					<td>January 21, 2020</td>
+				</tr>
+				<tr>
+					<th scope="row">Presentation/poster upload</th>
+					<td>February 7, 2020</td>
+				</tr>
+				<tr>
+					<th scope="row">Workshop dates</th>
+					<td>February 13-14, 2020</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</section>
 
-This meeting will co-locate and partner with the SIAM Conference on Parallel Processing for Scientific Computing (PP20).
-
-<!-- important dates -->
 <div class="wrapper style2" markdown="0">
-    <div class="row half">
-        <div class="12u">
-            <header>
-                <h2><strong>Important Dates</strong></h2>
-            </header>
-            <div class="row half">
-                <div class="8u">
-                    Workshop dates: <strong>February 13-14, 2020</strong><br />
-                    Workshop Registration: <strong>January 21, 2020</strong><br />
-                    Poster Submission: <strong>January 15, 2020</strong><br />
-                    Lightning Talk Submission: <strong>January 15, 2020</strong><br />
-                    Presentation/poster upload: <strong>February 7, 2020</strong><br />
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="wrapper style2" markdown="0">
-    <div class="row half">
-        <div class="12u">
-            <header>
-                <h2><strong>Abstract Submission</strong></h2>
-            </header>
-            <div class="row half">
-                <div class="8u">
-                    Instructions on how to submit your abstract for posters and lightning talks. <br /> 
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="row half">
+		<div class="12u">
+			<header>
+				<h2><strong>Abstract Submission</strong></h2>
+			</header>
+			<div class="row half">
+				<div class="8u">
+					Instructions on how to submit your abstract for posters and lightning talks. <br /> 
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 <!-- Report Section
 <section class="wrapper style3 special" markdown="0">
-    <div class="row">
-        <div class="12u">
-            <header>
-                <h3><strong>Workshop Report</strong></h3>
-            </header>
-            <iframe src="https://widgets.figshare.com/articles/7152461/embed?show_title=1" width="100%" height="500" frameborder="0"></iframe>
-        </div>
-    </div>
+	<div class="row">
+		<div class="12u">
+			<header>
+				<h3><strong>Workshop Report</strong></h3>
+			</header>
+			<iframe src="https://widgets.figshare.com/articles/7152461/embed?show_title=1" width="100%" height="500" frameborder="0"></iframe>
+		</div>
+	</div>
 </section>
 -->
 
-<div class="wrapper style2" markdown="0" id="agenda">
-    <div class="row half">
-        <div class="12u">
-            <header>
-                <h2><strong>Agenda</strong></h2>
-            </header>
-            <div class="row half">
-                <strong>Thursday, February 13, 2020</strong> <span>(Room: <strong>TBD</strong>)</span>
-                <table class="default stripped agenda">
-                    <thead>
-                        <tr>
-                            <th scope="col">Time</th>
-                            <th scope="col">Event</th>
-                            <th scope="col">Speaker</th>
-                            <th scope="col"></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>7:15am</td>
-                            <td>Breakfast TBD</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr class="up">
-                            <td>7:30am</td>
-                            <td>Breakfast and Registration</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>8:30am</td>
-                            <td><a href="https://figshare.com/articles/2018_si2_welcome_2018_pdf/6204143" target="_blank" rel="noopener">Welcome Address</a></td>
-                            <td>Haiying SHen</td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>8:45am</td>
-                            <td>NSF CISE and <a href="presentations/2018-friedlander-SI2.pdf" target="_blank" rel="noopener">OAC Directions</a></td>
-                            <td>TBD</td>
-                            <td></td>
-                        </tr>
-                        <tr class="up">
-                            <td>9:30am</td>
-                            <td>Coffee Break</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>10:00am</td>
-                            <td><a href="https://figshare.com/articles/2018_si2_pi_walkerpeach_pdf/6204164" target="_blank" rel="noopener">Talk title TBD</a></td>
-                            <td>TBD</td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>10:05am</td>
-                            <td>Lightning Talks #1</td>
-                            <td><a href="/2020-meeting/poster_sessions.html#session1">assignments</a></td>
-                            <td rowspan="2">Moderator: TBD</td>
-                        </tr>
-                        <tr>
-                            <td>10:50am</td>
-                            <td>Posters Session #1</td>
-                            <td><a href="/2020-meeting/poster_sessions.html#session1">assignments</a></td>
-                        </tr>
-                        <tr class="up">
-                            <td>noon</td>
-                            <td>Lunch </td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>1:00pm</td>
-                            <td><a href="presentations/nanoHUB_briefing_stakehold_success_crit_impact_print.pdf" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>Speaker TBD</td>
-                            <td rowspan="4">Moderator: TBD</td>
-                        </tr>
-                        <tr>
-                            <td>1:30pm</td>
-                            <td>SI2 Institutes: <a href="presentations/SGCI-PI-meeting-4-30-18.pdf" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>TBD </td>
-                        </tr>
-                        <tr>
-                            <td>2:00pm</td>
-                            <td>SI2 Institutes: <a href="presentations/si2-pi-meeting-crawford.pdf" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>TBD</td>
-                        </tr>
-                        <tr>
-                            <td>2:30pm</td>
-                            <td>Industry Highlight: <a href="presentations/NSF_SI2_PI_Meeting_043018_zetner.pdf" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>TBD</td>
-                        </tr>
-                        <tr class="up">
-                            <td>3:00pm</td>
-                            <td>Coffee Break</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>3:15pm</td>
-                            <td>Lightning Talks #2</td>
-                            <td><a href="/2020-meeting/poster_sessions.html#session2">assignments</a></td>
-                            <td rowspan="2">Moderator: Kyle Niemeyer</td>
-                        </tr>
-                        <tr>
-                            <td>4:00pm</td>
-                            <td>Posters Session #2</td>
-                            <td><a href="/2020-meeting/poster_sessions.html#session2">assignments</a></td>
-                        </tr>
-                        <tr class="up">
-                            <td>5:00pm</td>
-                            <td>Reception: finger food, with vegetarian options, and a cash bar</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                    </tbody>
-                </table>
-                <p style="margin-top: -2em; padding: 0; font-size: 11px"><strong>** For selected PIs only.</strong></p>
-            </div>
-            <div class="row half">
-                <strong>Friday, February 14, 2020</strong> <span>(Room: <strong>TBD </strong>)</span>
-                <table class="default stripped agenda">
-                    <thead>
-                        <tr>
-                            <th scope="col">Time</th>
-                            <th scope="col">Event</th>
-                            <th scope="col">Speaker</th>
-                            <th scope="col"></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr class="up">
-                            <td>7:30am</td>
-                            <td>Breakfast and Registration</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>8:30am</td>
-                            <td>Conceptualization: <a href="https://figshare.com/s/59f447dc6694dc5c9ece" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>TBD</td>
-                            <td rowspan="3">Moderator: TBD</td>
-                        </tr>
-                        <tr>
-                            <td>9:00am</td>
-                            <td>Conceptualization: <a href="http://elmer.web.cern.ch/elmer/si2pi2018.pdf" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>TBD </td>
-                        </tr>
-                        <tr>
-                            <td>9:30am</td>
-                            <td>Conceptualization: <a href="http://inundata.org/talks/si2" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>TBD</td>
-                        </tr>
-                        <tr class="up">
-                            <td>10:00am</td>
-                            <td>Coffee Break</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>10:15am</td>
-                            <td>Lightning Talks #3</td>
-                            <td><a href="/2020-meeting/poster_sessions.html#session3">assignments</a></td>
-                            <td rowspan="2">Moderator: Paul Bauman</td>
-                        </tr>
-                        <tr>
-                            <td>11:00am</td>
-                            <td>Posters Session #3</td>
-                            <td><a href="/2020-meeting/poster_sessions.html#session3">assignments</a></td>
-                        </tr>
-                        <tr class="up">
-                            <td>noon</td>
-                            <td>Lunch</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>1:00pm</td>
-                            <td>SSI Highlight: <a href="presentations/20180423-NSF-SSI2-15mintalk-Westerink-v21abr.pptx" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>TBD</td>
-                            <td rowspan="6">Moderator: TBD</td>
-                        </tr>
-                        <tr>
-                            <td>1:15pm</td>
-                            <td>SSE Highlight: <a href="presentations/si2-pi-meeting-shephard.pdf" target="_blank" rel="noopener">Title TBD</a></td>
-                            <td>TBD </td>
-                        </tr>
-                        <tr>
-                            <td>1:30pm</td>
-                            <td>REU Highlight: <a href="https://doi.org/10.6084/m9.figshare.6203231.v2" target="_blank" rel="noopener">NCSA's INCLUSION (Incubating a New Community of Leaders Using Software, Inclusion, Innovation, Interdisciplinary and OpeN-Science) REU Site</a></td>
-                            <td>Dan Katz</td>
-                        </tr>
-                        <tr>
-                            <td>1:45pm</td>
-                            <td>SSI Highlight: <a href="presentations/si2-pi-meeting-deelman.pdf" target="_blank" rel="noopener">Distributed Workflow Management Research and Software in Support of Science</a></td>
-                            <td>Ewa Deelman</td>
-                        </tr>
-                        <tr>
-                            <td>2:00pm</td>
-                            <td>SSE Highlight: <a href="https://figshare.com/articles/Making_Software_Engineering_Work_for_Computational_Science_Engineering_An_Integrated_Approach/6174260" target="_blank" rel="noopener">Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</a></td>
-                            <td>Jeff Carver</td>
-                        </tr>
-                        <tr>
-                            <td>2:15pm</td>
-                            <td class="lnormal">Software Security: <a href="https://figshare.com/articles/Steps_for_Transitioning_Software_From_Development_to_Operations_To_Science_The_Cybersecurity_Perspective/6225743" target="_blank" rel="noopener">Selecting engineering and security practices to enable robust CI and trustworthy science</a></td>
-                            <td>Von Welch</td>
-                        </tr>
-                        <tr class="up">
-                            <td>2:30pm</td>
-                            <td>Coffee Break</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>2:45pm</td>
-                            <td>Lightning Talks #4</td>
-                            <td><a href="/2018-meeting/poster_sessions.html#session4">assignments</a></td>
-                            <td rowspan="2">Moderator: Frank Timmes</td>
-                        </tr>
-                        <tr>
-                            <td>3:30pm</td>
-                            <td>Posters Session #4</td>
-                            <td><a href="/2018-meeting/poster_sessions.html#session4">assignments</a></td>
-                        </tr>
-                        <tr>
-                            <td>4:30pm</td>
-                            <td>Panel Discussion and Combining Software and Data Programs<br />Ewa Deelman, Boyce Griffith, DK Panda, Abani Patra, and Haiying Shen</td>
-                            <td></td>
-                            <td>Moderator: Vipin Chaudhary</td>
-                        </tr>
-                        <tr>
-                            <td>5:00pm</td>
-                            <td>Closing</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-    </div>
-</div>
-
-<section class="wrapper style3" markdown="0" id="poster">
-    <header>
-        <h3><strong>Poster presentation</strong></h3>
-    </header>
-    <p>
-        PIs are expected to present a poster on their project. We will  use <a href="https://figshare.com" target="_blank" rel="noopener">Figshare</a> to host and share the posters digitally. Please follow these steps to upload your poster by <strong><u>February 7, 2020</u></strong>:
-    </p>
-    <p>
-        1. Create or log into your <a href="https://figshare.com" target="_blank" rel="noopener">Figshare</a> account.<br />
-        2. Follow steps from "My Data" -> "Create a new item" to bring up the content upload form.<br />
-        3. Fill in the appropriate metadata (authors, title).<br />
-        4. Set the "Item type" to poster, and at the keyword stage put "<u>NSF-CSSI-2020</u>" as one of the chosen keywords. (Hit return/enter to separate keywords.)<br />
-        5. You may also want to add your NSF award # to the "Funding" section.<br />
-        6. For license, we recommend selecting "<a href="https://creativecommons.org/licenses/by/4.0" target="_blank" rel="noopener">CC BY</a>" (which should be the default).<br />
-        7. Please also add a brief abstract describing your project.<br />
-        8. Hit publish!
-    </p>
-    <p>
-        Please note that you are expected to print out and bring a physical copy on your own; we will not be printing any posters. Collaborative projects (including across multiple institutions) should only bring one poster.
-    </p>
+<section class="floor floor-2" id="agenda">
+	<div class="inner">
+		<h2>Agenda</h2>
+		<div class="tabs">
+			<ul>
+				<li>
+					<a href="#2020-02-13">Day 1</a>
+				</li>
+				<li>
+					<a href="#2020-02-14">Day 2</a>
+				</li>
+			</ul>
+			<div id="2020-02-13">
+				<table class="default stripped agenda">
+					<caption>Thursday, February 13, 2020 <span>(Room: <strong>TBD</strong>)</span></caption>
+					<thead>
+						<tr>
+							<th scope="col">Time</th>
+							<th scope="col">Event</th>
+							<th scope="col">Speaker</th>
+							<th scope="col"></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>7:15am</td>
+							<td colspan="3">Breakfast TBD</td>
+						</tr>
+						<tr class="up">
+							<td>7:30am</td>
+							<td colspan="3">Breakfast and Registration</td>
+						</tr>
+						<tr>
+							<td>8:30am</td>
+							<td><a href="https://figshare.com/articles/2018_si2_welcome_2018_pdf/6204143" target="_blank" rel="noopener">Welcome Address</a></td>
+							<td>Haiying SHen</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>8:45am</td>
+							<td>NSF CISE and <a href="presentations/2018-friedlander-SI2.pdf" target="_blank" rel="noopener">OAC Directions</a></td>
+							<td>TBD</td>
+							<td></td>
+						</tr>
+						<tr class="up">
+							<td>9:30am</td>
+							<td colspan="3">Coffee Break</td>
+						</tr>
+						<tr>
+							<td>10:00am</td>
+							<td><a href="https://figshare.com/articles/2018_si2_pi_walkerpeach_pdf/6204164" target="_blank" rel="noopener">Talk title TBD</a></td>
+							<td>TBD</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>10:05am</td>
+							<td>Lightning Talks #1</td>
+							<td><a href="/2020-meeting/poster_sessions.html#session1">assignments</a></td>
+							<td rowspan="2">Moderator: TBD</td>
+						</tr>
+						<tr>
+							<td>10:50am</td>
+							<td>Posters Session #1</td>
+							<td><a href="/2020-meeting/poster_sessions.html#session1">assignments</a></td>
+						</tr>
+						<tr class="up">
+							<td>noon</td>
+							<td colspan="3">Lunch</td>
+						</tr>
+						<tr>
+							<td>1:00pm</td>
+							<td><a href="presentations/nanoHUB_briefing_stakehold_success_crit_impact_print.pdf" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>Speaker TBD</td>
+							<td rowspan="4">Moderator: TBD</td>
+						</tr>
+						<tr>
+							<td>1:30pm</td>
+							<td>SI2 Institutes: <a href="presentations/SGCI-PI-meeting-4-30-18.pdf" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>TBD</td>
+						</tr>
+						<tr>
+							<td>2:00pm</td>
+							<td>SI2 Institutes: <a href="presentations/si2-pi-meeting-crawford.pdf" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>TBD</td>
+						</tr>
+						<tr>
+							<td>2:30pm</td>
+							<td>Industry Highlight: <a href="presentations/NSF_SI2_PI_Meeting_043018_zetner.pdf" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>TBD</td>
+						</tr>
+						<tr class="up">
+							<td>3:00pm</td>
+							<td colspan="3">Coffee Break</td>
+						</tr>
+						<tr>
+							<td>3:15pm</td>
+							<td>Lightning Talks #2</td>
+							<td><a href="/2020-meeting/poster_sessions.html#session2">assignments</a></td>
+							<td rowspan="2">Moderator: Kyle Niemeyer</td>
+						</tr>
+						<tr>
+							<td>4:00pm</td>
+							<td>Posters Session #2</td>
+							<td><a href="/2020-meeting/poster_sessions.html#session2">assignments</a></td>
+						</tr>
+						<tr class="up">
+							<td>5:00pm</td>
+							<td colspan="3">Reception: finger food, with vegetarian options, and a cash bar</td>
+						</tr>
+					</tbody>
+				</table>
+				<p><strong>** For selected PIs only.</strong></p>
+			</div>
+			<div id="2020-02-14">
+				<table class="default stripped agenda">
+					<caption>Friday, February 14, 2020 <span>(Room: <strong>TBD </strong>)</span></caption>
+					<thead>
+						<tr>
+							<th scope="col">Time</th>
+							<th scope="col">Event</th>
+							<th scope="col">Speaker</th>
+							<th scope="col"></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr class="up">
+							<td>7:30am</td>
+							<td colspan="3">Breakfast and Registration</td>
+						</tr>
+						<tr>
+							<td>8:30am</td>
+							<td>Conceptualization: <a href="https://figshare.com/s/59f447dc6694dc5c9ece" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>TBD</td>
+							<td rowspan="3">Moderator: TBD</td>
+						</tr>
+						<tr>
+							<td>9:00am</td>
+							<td>Conceptualization: <a href="http://elmer.web.cern.ch/elmer/si2pi2018.pdf" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>TBD</td>
+						</tr>
+						<tr>
+							<td>9:30am</td>
+							<td>Conceptualization: <a href="http://inundata.org/talks/si2" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>TBD</td>
+						</tr>
+						<tr class="up">
+							<td>10:00am</td>
+							<td colspan="3">Coffee Break</td>
+						</tr>
+						<tr>
+							<td>10:15am</td>
+							<td>Lightning Talks #3</td>
+							<td><a href="/2020-meeting/poster_sessions.html#session3">assignments</a></td>
+							<td rowspan="2">Moderator: Paul Bauman</td>
+						</tr>
+						<tr>
+							<td>11:00am</td>
+							<td>Posters Session #3</td>
+							<td><a href="/2020-meeting/poster_sessions.html#session3">assignments</a></td>
+						</tr>
+						<tr class="up">
+							<td>noon</td>
+							<td colspan="3">Lunch</td>
+						</tr>
+						<tr>
+							<td>1:00pm</td>
+							<td>SSI Highlight: <a href="presentations/20180423-NSF-SSI2-15mintalk-Westerink-v21abr.pptx" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>TBD</td>
+							<td rowspan="6">Moderator: TBD</td>
+						</tr>
+						<tr>
+							<td>1:15pm</td>
+							<td>SSE Highlight: <a href="presentations/si2-pi-meeting-shephard.pdf" target="_blank" rel="noopener">Title TBD</a></td>
+							<td>TBD</td>
+						</tr>
+						<tr>
+							<td>1:30pm</td>
+							<td>REU Highlight: <a href="https://doi.org/10.6084/m9.figshare.6203231.v2" target="_blank" rel="noopener">NCSA's INCLUSION (Incubating a New Community of Leaders Using Software, Inclusion, Innovation, Interdisciplinary and OpeN-Science) REU Site</a></td>
+							<td>Dan Katz</td>
+						</tr>
+						<tr>
+							<td>1:45pm</td>
+							<td>SSI Highlight: <a href="presentations/si2-pi-meeting-deelman.pdf" target="_blank" rel="noopener">Distributed Workflow Management Research and Software in Support of Science</a></td>
+							<td>Ewa Deelman</td>
+						</tr>
+						<tr>
+							<td>2:00pm</td>
+							<td>SSE Highlight: <a href="https://figshare.com/articles/Making_Software_Engineering_Work_for_Computational_Science_Engineering_An_Integrated_Approach/6174260" target="_blank" rel="noopener">Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</a></td>
+							<td>Jeff Carver</td>
+						</tr>
+						<tr>
+							<td>2:15pm</td>
+							<td class="lnormal">Software Security: <a href="https://figshare.com/articles/Steps_for_Transitioning_Software_From_Development_to_Operations_To_Science_The_Cybersecurity_Perspective/6225743" target="_blank" rel="noopener">Selecting engineering and security practices to enable robust CI and trustworthy science</a></td>
+							<td>Von Welch</td>
+						</tr>
+						<tr class="up">
+							<td>2:30pm</td>
+							<td colspan="3">Coffee Break</td>
+						</tr>
+						<tr>
+							<td>2:45pm</td>
+							<td>Lightning Talks #4</td>
+							<td><a href="/2018-meeting/poster_sessions.html#session4">assignments</a></td>
+							<td rowspan="2">Moderator: Frank Timmes</td>
+						</tr>
+						<tr>
+							<td>3:30pm</td>
+							<td>Posters Session #4</td>
+							<td><a href="/2018-meeting/poster_sessions.html#session4">assignments</a></td>
+						</tr>
+						<tr>
+							<td>4:30pm</td>
+							<td>Panel Discussion and Combining Software and Data Programs<br />Ewa Deelman, Boyce Griffith, DK Panda, Abani Patra, and Haiying Shen</td>
+							<td></td>
+							<td>Moderator: Vipin Chaudhary</td>
+						</tr>
+						<tr>
+							<td>5:00pm</td>
+							<td colspan="3">Closing</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
 </section>
 
-<section class="wrapper style3" markdown="0" id="talks">
-    <header>
-        <h3><strong>Lightning Talks</strong></h3>
-    </header>
-    <p>
-        Each project will also give a brief, one-minute lightning talk to introduce
-        their poster. This is an opportunity to drive meeting participants to your poster.
-        To avoid any technical issues and minimize delays, lightning talk slide(s)
-        will need to be submitted by <strong><u>February 7, 2020</u></strong>.
-        As for the posters, we will use <a href="https://figshare.com" target="_blank" rel="noopener">Figshare</a>
-        to gather your 1 slide pdf files.
-        Follow the instructions given above for the posters but use the keyword
-        "<u>NSF-CSSI-2020-Talk</u>" as one of the chosen keywords. Your pdf slide will
-        be shown during your 1 minute Lightning Talk.
-    </p>
+<section class="floor floor-3" id="attendees">
+	<div class="inner">
+		<h2>Attendees</h2>
+	</div>
 </section>
 
-<div class="wrapper style2" markdown="0" id="organizers">
-    <div class="row half">
-        <div class="12u">
-            <header>
-                <h2><strong>Organizing Committee</strong></h2>
-            </header>
-            <div class="row half">
-                <div class="4u">
-                    <img src="images/HaiyingShen.png" style="width:100px;height:100px;" />
-                    <br/><h1>Haiying Shen (Chair)</h1>
-                    <p>University of Virginia </p>
-                </div>
-                <div class="4u">
-                    <img src="images/CarolSong.png" style="width:100px;height:100px;" />
-                    <br/><h1>Carol Song</h1>
-                    <p>Purdue University </p>
-                </div>
-                <div class="4u">
-                    <img src="images/kanewala.png" style="width:100px;height:100px;" />
-                    <br/><h1>Upulee Kanewala</h1>
-                    <p>Montana State University  </p>
-                </div>
-            </div>
-            <div class="row half">
-                <div class="4u">
-                    <img src="images/ritu.png" style="width:100px;height:100px;" />
-                    <br/><h1>Ritu Arora</h1>
-                    <p>University of Texas, Austin </p>
-                </div>   
-                <div class="4u">
-                    <img src="images/SandraGesing.png" style="width:100px;height:100px;" />
-                    <br/><h1>Sandra Gesing</h1>
-                    <p>University of Notre Dame</p>
-                </div>             
-                <div class="4u">
-                    <img src="images/NataliaVillanueva.png" style="width:100px;height:100px;" />
-                    <br/><h1>Natalia Villanueva Rosales</h1>
-                    <p>University of Texas at El Paso</p>
-                </div>             
-            </div>
-            <p style="text-align:center;"> <strong>Contact the organizers via email at CSSI-PI-Meeting2020 at googlegroups dot com. </strong></p>
-        </div>
-    </div>
-</div>
+<section class="floor floor-4" id="poster">
+	<div class="inner">
+		<h2>Poster Presentation</h2>
+	</header>
+	<p>
+		PIs are expected to present a poster on their project. We will  use <a href="https://figshare.com" target="_blank" rel="noopener">Figshare</a> to host and share the posters digitally. Please follow these steps to upload your poster by <strong><u>February 7, 2020</u></strong>:
+	</p>
+	<ol>
+		<li>Create or log into your <a href="https://figshare.com" target="_blank" rel="noopener">Figshare</a> account.</li>
+		<li>Follow steps from "My Data" -> "Create a new item" to bring up the content upload form.</li>
+		<li>Fill in the appropriate metadata (authors, title).</li>
+		<li>Set the "Item type" to poster, and at the keyword stage put "<u>NSF-CSSI-2020</u>" as one of the chosen keywords. (Hit return/enter to separate keywords.)</li>
+		<li>You may also want to add your NSF award # to the "Funding" section.</li>
+		<li>For license, we recommend selecting "<a href="https://creativecommons.org/licenses/by/4.0" target="_blank" rel="noopener">CC BY</a>" (which should be the default).</li>
+		<li>Please also add a brief abstract describing your project.</li>
+		<li>Hit publish!</li>
+	</ol>
+	<p>
+		Please note that you are expected to print out and bring a physical copy on your own; we will not be printing any posters. Collaborative projects (including across multiple institutions) should only bring one poster.
+	</p>
+</section>
+
+<section class="floor floor-5" id="talks">
+	<div class="inner">
+		<h2>Lightning Talks</h2>
+		<p>
+			Each project will also give a brief, one-minute lightning talk to introduce
+			their poster. This is an opportunity to drive meeting participants to your poster.
+			To avoid any technical issues and minimize delays, lightning talk slide(s)
+			will need to be submitted by <strong><u>February 7, 2020</u></strong>.
+			As for the posters, we will use <a href="https://figshare.com" target="_blank" rel="noopener">Figshare</a>
+			to gather your 1 slide pdf files.
+			Follow the instructions given above for the posters but use the keyword
+			"<u>NSF-CSSI-2020-Talk</u>" as one of the chosen keywords. Your pdf slide will
+			be shown during your 1 minute Lightning Talk.
+		</p>
+	</div>
+</section>
+
+<section class="floor floor-6" id="organizers">
+	<div class="inner">
+		<h2>Organizing Committee</h2>
+		<div class="grid">
+			<div class="col span6">
+				<div class="card">
+					<div class="card-header">
+						<img src="assets/images/HaiyingShen.png" width="100" height="100" alt="Haiying Shen (Chair)" />
+					</div>
+					<div class="card-body">
+						<h3 class="card-title">Haiying Shen (Chair)</h3>
+						<p class="card-text">University of Virginia</p>
+					</div>
+				</div>
+				<div class="card">
+					<div class="card-header">
+						<img src="assets/images/CarolSong.png" width="100" height="100" alt="Carol Song" />
+					</div>
+					<div class="card-body">
+						<h3 class="card-title">Carol Song</h3>
+						<p class="card-text">Purdue University</p>
+					</div>
+				</div>
+				<div class="card">
+					<div class="card-header">
+						<img src="assets/images/kanewala.png" width="100" height="100" alt="Upulee Kanewala" />
+					</div>
+					<div class="card-body">
+						<h3 class="card-title">Upulee Kanewala</h3>
+						<p class="card-text">Montana State University</p>
+					</div>
+				</div>
+			</div>
+			<div class="col span6">
+				<div class="card">
+					<div class="card-header">
+						<img src="assets/images/ritu.png" width="100" height="100" alt="Ritu Arora" />
+					</div>
+					<div class="card-body">
+						<h3 class="card-title">Ritu Arora</h3>
+						<p class="card-text">University of Texas, Austin</p>
+					</div>
+				</div>
+				<div class="card">
+					<div class="card-header">
+						<img src="assets/images/SandraGesing.png" width="100" height="100" alt="Sandra Gesing" />
+					</div>
+					<div class="card-body">
+						<h3 class="card-title">Sandra Gesing</h3>
+						<p class="card-text">University of Notre Dame</p>
+					</div>
+				</div>
+				<div class="card">
+					<div class="card-header">
+						<img src="assets/images/NataliaVillanueva.png" width="100" height="100" alt="Natalia Villanueva Rosales" />
+					</div>
+					<div class="card-body">
+						<h3 class="card-title">Natalia Villanueva Rosales</h3>
+						<p class="card-text">University of Texas at El Paso</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p><strong>Contact the organizers via email at CSSI-PI-Meeting2020 at googlegroups dot com.</strong></p>
+	</div>
+</section>
 
 <!--
-<section class="wrapper style1 container special" markdown="0" id="past-meetings">
-    <header class="major">
-       <h2>Past Meetings</h2>
-    </header>
-    <div class="row">
-        <div class="4u 12u(narrower)">
-            <h3>2017 SI<sup>2</sup> PI Meeting</h3>
-            <p>Arlington, VA – 21-22 Feb 2017</p>
-            <p><a href="https://si2-pi-community.github.io/2017-meeting/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
-                &nbsp;&nbsp;
-                <a href="https://doi.org/10.6084/m9.figshare.4987013.v2" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
-            </p>
-        </div>
-        <div class="4u 12u(narrower)">
-            <h3>2016 SI<sup>2</sup> PI Meeting</h3>
-            <p>Arlington, VA – 16-17 Feb 2016</p>
-            <p>
-                <a href="http://cococubed.asu.edu/si2_pi_workshop_2016/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
-                &nbsp;&nbsp;
-                <a href="http://dl.acm.org/citation.cfm?id=2965630" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
-            </p>
-        </div>
-        <div class="4u 12u(narrower)">
-            <h3>2015 SI<sup>2</sup> PI Meeting</h3>
-            <p>Arlington, VA – 17-18 Feb 2015</p>
-            <p>
-                <a href="http://cococubed.asu.edu/si2pimeeting2015/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
-                &nbsp;&nbsp;
-                <a href="http://cococubed.asu.edu/si2_pi_workshop_2016/ewExternalFiles/nsf-si2piw_2015.pdf" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
-            </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="4u 12u(narrower)">
-            <h3>2014 SI<sup>2</sup> PI Meeting</h3>
-            <p>Arlington, VA – 24-25 Feb 2014</p>
-            <p>
-                <a href="https://sites.google.com/site/si2pimeeting2014/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
-                &nbsp;&nbsp;
-                <a href="http://hdl.handle.net/2022/19760" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
-            </p>
-        </div>
-        <div class="4u 12u(narrower)">
-            <h3>2013 SI<sup>2</sup> PI Meeting</h3>
-            <p>Arlington, VA – 17-18 Jan 2013</p>
-            <p>
-                <a href="https://sites.google.com/site/si2pimeeting/home" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
-                &nbsp;&nbsp;
-                <a href="http://dl.acm.org/citation.cfm?id=2747420" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
-            </p>
-        </div>
-    </div>
+<section class="floor floor-6" id="past-meetings">
+	<div class="inner">
+		<h2>Past Meetings</h2>
+		<div class="row">
+			<div class="4u 12u(narrower)">
+				<h3>2017 SI<sup>2</sup> PI Meeting</h3>
+				<p>Arlington, VA – 21-22 Feb 2017</p>
+				<p><a href="https://si2-pi-community.github.io/2017-meeting/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
+					&nbsp;&nbsp;
+					<a href="https://doi.org/10.6084/m9.figshare.4987013.v2" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
+				</p>
+			</div>
+			<div class="4u 12u(narrower)">
+				<h3>2016 SI<sup>2</sup> PI Meeting</h3>
+				<p>Arlington, VA – 16-17 Feb 2016</p>
+				<p>
+					<a href="http://cococubed.asu.edu/si2_pi_workshop_2016/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
+					&nbsp;&nbsp;
+					<a href="http://dl.acm.org/citation.cfm?id=2965630" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
+				</p>
+			</div>
+			<div class="4u 12u(narrower)">
+				<h3>2015 SI<sup>2</sup> PI Meeting</h3>
+				<p>Arlington, VA – 17-18 Feb 2015</p>
+				<p>
+					<a href="http://cococubed.asu.edu/si2pimeeting2015/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
+					&nbsp;&nbsp;
+					<a href="http://cococubed.asu.edu/si2_pi_workshop_2016/ewExternalFiles/nsf-si2piw_2015.pdf" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
+				</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="4u 12u(narrower)">
+				<h3>2014 SI<sup>2</sup> PI Meeting</h3>
+				<p>Arlington, VA – 24-25 Feb 2014</p>
+				<p>
+					<a href="https://sites.google.com/site/si2pimeeting2014/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
+					&nbsp;&nbsp;
+					<a href="http://hdl.handle.net/2022/19760" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
+				</p>
+			</div>
+			<div class="4u 12u(narrower)">
+				<h3>2013 SI<sup>2</sup> PI Meeting</h3>
+				<p>Arlington, VA – 17-18 Jan 2013</p>
+				<p>
+					<a href="https://sites.google.com/site/si2pimeeting/home" target="_blank" rel="noopener"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
+					&nbsp;&nbsp;
+					<a href="http://dl.acm.org/citation.cfm?id=2747420" target="_blank" rel="noopener"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
+				</p>
+			</div>
+		</div>
+	</div
 </section>
 -->
 
-<section class="wrapper style3" style="margin-bottom: 0" markdown="0" id="code-conduct">
-    <header>
-        <h3><strong>Code of Conduct</strong></h3>
-    </header>
-    <p>
-        The 2020 NSF CSSI PI Meeting is an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the NSF CSSI PI Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.
-    </p>
-    <p>
-        <strong>Definition of Sexual Harassment:</strong><br />
-        Sexual harassment refers to unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature. Behavior and language that are welcome/acceptable to one person may be unwelcome/offensive to another. Consequently, individuals must use discretion to ensure that their words and actions communicate respect for others. This is especially important for those in positions of authority since individuals with lower rank or status may be reluctant to express their objections or discomfort regarding unwelcome behavior.<br /><br />
-        Sexual harassment does not refer to occasional compliments of a socially acceptable nature. It refers to behavior that is not welcome, is personally offensive, debilitates morale, and therefore, interferes with work effectiveness. The following are examples of behavior that, when unwelcome, may constitute sexual harassment: sexual flirtations, advances, or propositions; verbal comments or physical actions of a sexual nature; sexually degrading words used to describe an individual; a display of sexually suggestive objects or pictures; sexually explicit jokes; unnecessary touching.
-    </p>
-    <p>
-        <strong>Definition of Other Harassment:</strong><br />
-        Harassment on the basis of any other protected characteristic is also strictly prohibited. This conduct includes, but is not limited to the following: epithets, slurs, or negative stereotyping; threatening, intimidating, or hostile acts; denigrating jokes and display or circulation of written or graphic material that denigrates or shows hostility or aversion toward an individual or group.
-    </p>
-    <p>
-        <strong>Definition of Discrimination:</strong><br />
-        Discrimination refers to bias or prejudice resulting in denial of opportunity, or unfair treatment regarding selection, promotion, or transfer. Discrimination is practiced commonly on the grounds of age, disability, ethnicity, origin, political belief, race, religion, sex, etc. factors which are irrelevant to a person's competence or suitability.
-    </p>
-    <p>
-        <strong>Definition of Retaliation:</strong><br />
-        Retaliation refers to taking some action to negatively impact another based on them reporting an act of discrimination or harassment.
-    </p>
-    <p>
-        <strong>Reporting an Incident:</strong><br />
-        Violations of this code of conduct policy should be reported immediately to one of the five Organizing Committee Members. All complaints will be treated seriously and be investigated promptly. Confidentiality will be honored to the extent permitted as long as the rights of others are not compromised.  Sanctions may range from verbal warning, to ejection from the 2018 NSF CSSI PI Meeting, to the notification of appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated.
-    </p>
+<section class="floor floor-7" id="code-conduct">
+	<div class="inner">
+		<h2>Code of Conduct</h2>
+		<p>
+			The 2020 NSF CSSI PI Meeting is an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the NSF CSSI PI Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.
+		</p>
+		<dl>
+			<dt>Definition of Sexual Harassment:</dt>
+			<dd>
+				Sexual harassment refers to unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature. Behavior and language that are welcome/acceptable to one person may be unwelcome/offensive to another. Consequently, individuals must use discretion to ensure that their words and actions communicate respect for others. This is especially important for those in positions of authority since individuals with lower rank or status may be reluctant to express their objections or discomfort regarding unwelcome behavior.<br /><br />
+				Sexual harassment does not refer to occasional compliments of a socially acceptable nature. It refers to behavior that is not welcome, is personally offensive, debilitates morale, and therefore, interferes with work effectiveness. The following are examples of behavior that, when unwelcome, may constitute sexual harassment: sexual flirtations, advances, or propositions; verbal comments or physical actions of a sexual nature; sexually degrading words used to describe an individual; a display of sexually suggestive objects or pictures; sexually explicit jokes; unnecessary touching.
+			</dd>
+			<dt>Definition of Other Harassment:</dt>
+			<dd>
+				Harassment on the basis of any other protected characteristic is also strictly prohibited. This conduct includes, but is not limited to the following: epithets, slurs, or negative stereotyping; threatening, intimidating, or hostile acts; denigrating jokes and display or circulation of written or graphic material that denigrates or shows hostility or aversion toward an individual or group.
+			</dd>
+			<dt>Definition of Discrimination:</dt>
+			<dd>
+				Discrimination refers to bias or prejudice resulting in denial of opportunity, or unfair treatment regarding selection, promotion, or transfer. Discrimination is practiced commonly on the grounds of age, disability, ethnicity, origin, political belief, race, religion, sex, etc. factors which are irrelevant to a person's competence or suitability.
+			</dd>
+			<dt>Definition of Retaliation:</dt>
+			<dd>
+				Retaliation refers to taking some action to negatively impact another based on them reporting an act of discrimination or harassment.
+			</dd>
+			<dt>Reporting an Incident:</dt>
+			<dd>
+				Violations of this code of conduct policy should be reported immediately to one of the five Organizing Committee Members. All complaints will be treated seriously and be investigated promptly. Confidentiality will be honored to the extent permitted as long as the rights of others are not compromised.  Sanctions may range from verbal warning, to ejection from the 2018 NSF CSSI PI Meeting, to the notification of appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated.
+			</dd>
+		</dl>
+	</div>
 </section>

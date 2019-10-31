@@ -11,10 +11,10 @@ markdown: kramdown
 
 assets:
   sources:
-    - fonts
-    - images
+    - assets/fonts
+    - assets/images
     - assets/js
-    - css
+    - assets/css
 
 gems:
   - jekyll-assets
