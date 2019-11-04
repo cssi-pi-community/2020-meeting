@@ -1173,12 +1173,11 @@ table .up {
 }
 
 #home .venue {
-	background-color: #f1e3de;
-	background-color: rgba(215, 125, 94, 0.1);
+	background-color: #f2e9e6;
 }
 #home .venue .panel-title {
 	margin: 0;
-	background-color: rgba(215, 125, 94, 0.5);
+	background-color: #e9c7bb;
 	padding: 1em;
 	font-size: 1em;
 }
