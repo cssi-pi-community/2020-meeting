@@ -760,7 +760,48 @@ table .up {
 		padding-bottom: 1em;
 	}
 }
-
+form {
+	margin: 1em 0;
+}
+legend,
+label {
+	border: 0;
+	clip: rect(1px 1px 1px 1px);
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}
+input[type="text"],
+input[type="search"] {
+	width: 100%;
+	max-width: 100%;
+	outline: none;
+	padding: 0.5em 0.5em;
+	border: 1px solid #ddd;
+	border-radius: 0.25em;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+input[type="text"]:hover,
+input[type="text"]:focus,
+input[type="search"]:hover,
+input[type="search"]:focus {
+	border-color: #999;
+}
+.badge {
+	background-color: #c00;
+	border-radius: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 75%;
+	line-height: 1;
+	color: #fff;
+	padding: 0 0.5em;
+}
 .alert {
 	margin: 1em 0;
 	padding: 0.7em 1em;

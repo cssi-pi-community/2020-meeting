@@ -21,7 +21,7 @@ jQuery(document).ready(function($){
 		$('#splash').height($(window).height());
 	}
 
-	$( ".tabs" ).tabs();
+	$(".tabs").tabs();
 
 	// Ascensor Settings
 	var ascensor = jQuery('#content').ascensor({
@@ -65,6 +65,35 @@ jQuery(document).ready(function($){
 			window.location.hash = jQuery(this).attr('href').replace('#', '');
 		});
 
+	jQuery('body')
+		.find('.links-to-floor')
+		.on("click", function (e) {
+			"use strict";
+
+			e.preventDefault();
+
+			// Get the id of the floor
+			var floornumber = jQuery(this).data('id');
+
+			// Remove class from all menu items
+			jQuery('body').find('.links-to-floor-li a').removeClass("active");
+
+			// Add class to the active menu item
+			jQuery('body').find('.links-to-floor-li a[data-id=' + floornumber + ']').addClass("active");
+			//jQuery(this).addClass("active");
+
+			// Close modal menu
+			jQuery("body").removeClass("menu-open");
+
+			// Scroll the page
+			ascensorInstance.scrollToFloor(floornumber - 1);
+
+			// Set page hash - this needs to be last!
+			window.location.hash = jQuery(this).attr('href').replace('#', '');
+
+			//$(".tabs").tabs({ active: parseInt(jQuery(this).data('idx')) });
+		});
+
 	var hash = window.location.hash.substr(1);
 
 	if (window.location.hash) {
@@ -79,4 +108,51 @@ jQuery(document).ready(function($){
 		var floornumber = jQuery(".active").data('id');
 		ascensorInstance.scrollToFloor(floornumber - 1);
 	}
+
+	$('#talk-filter').on('keyup', function(e){
+		var filter, txtValue, found;
+
+		filter = $(this).val().toUpperCase();
+
+		$('.talk-sessions tbody tr').each(function(i, tr){
+			found = false;
+
+			$(this).find('td').each(function(k, td){
+				//if (k == 0) {
+					txtValue = $(this).text();
+
+					if (txtValue.toUpperCase().indexOf(filter) > -1) {
+						//$(tr).css('display', '');
+						found = true;
+					//} else {
+						//$(tr).css('display', 'none');
+					}
+				//}
+			});
+
+			if (found) {
+				$(tr).removeClass('hide');
+			} else {
+				$(tr).addClass('hide');
+			}
+		});
+
+		$('.talk-tab').each(function(i, tr){
+			$(this).find('span').addClass('hide').text('');
+
+			if (filter) {
+				var count = 0;
+
+				$($(this).attr('href')).find('tbody tr').each(function(i, tr){
+					if (!$(tr).hasClass('hide')) {
+						count++;
+					}
+				});
+
+				if (count) {
+					$(this).find('span').text(count).removeClass('hide');
+				}
+			}
+		});
+	})
 });
