@@ -80,7 +80,6 @@ jQuery(document).ready(function($){
 
 			// Add class to the active menu item
 			jQuery('body').find('.links-to-floor-li a[data-id=' + floornumber + ']').addClass("active");
-			//jQuery(this).addClass("active");
 
 			// Close modal menu
 			jQuery("body").removeClass("menu-open");
@@ -90,8 +89,6 @@ jQuery(document).ready(function($){
 
 			// Set page hash - this needs to be last!
 			window.location.hash = jQuery(this).attr('href').replace('#', '');
-
-			//$(".tabs").tabs({ active: parseInt(jQuery(this).data('idx')) });
 		});
 
 	var hash = window.location.hash.substr(1);
@@ -118,16 +115,11 @@ jQuery(document).ready(function($){
 			found = false;
 
 			$(this).find('td').each(function(k, td){
-				//if (k == 0) {
-					txtValue = $(this).text();
+				txtValue = $(this).text();
 
-					if (txtValue.toUpperCase().indexOf(filter) > -1) {
-						//$(tr).css('display', '');
-						found = true;
-					//} else {
-						//$(tr).css('display', 'none');
-					}
-				//}
+				if (txtValue && txtValue.toUpperCase().indexOf(filter) > -1) {
+					found = true;
+				}
 			});
 
 			if (found) {
@@ -154,5 +146,32 @@ jQuery(document).ready(function($){
 				}
 			}
 		});
-	})
+	});
+
+	/*$(".dialog").dialog({
+		autoOpen: false,
+		modal: true,
+		width: 550
+	});*/
+	$('.talk-abstract').on('click', function(e){
+		e.preventDefault();
+
+		if ($($(this).attr('href')).length) {
+			var markup = $($(this).attr('href')).html(),
+				title = $($(this).attr('href')).attr('title');
+			//$($(this).attr('href')).dialog('open');
+			$('<div id="#dlg"></div>').dialog({
+				modal: true,
+				width: 550,
+				//position: { my: "center top", at: "center top", of: window },
+				title: title,
+				open: function () {
+					$(this).html(markup);
+				},
+				close: function () {
+					$("#dlg").remove();
+				}
+			});
+		}
+	});
 });
